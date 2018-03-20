@@ -1,0 +1,16 @@
+[
+{
+  "modid": "colorednametags",
+  "name": "Colored Name Tags",
+  "description": "Mod that allows for name tags to be colored and give colored names",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Turkey2349"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
