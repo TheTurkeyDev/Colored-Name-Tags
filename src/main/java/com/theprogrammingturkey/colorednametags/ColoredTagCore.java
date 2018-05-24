@@ -10,7 +10,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid = ColoredTagCore.MODID, version = ColoredTagCore.VERSION, name = ColoredTagCore.NAME)
+@Mod(modid = ColoredTagCore.MODID, version = ColoredTagCore.VERSION, name = ColoredTagCore.NAME, acceptableRemoteVersions = "*")
 public class ColoredTagCore
 {
 	public static final String MODID = "colorednametags";
